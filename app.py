@@ -1,9 +1,3 @@
-import streamlit as st
-import pandas as pd
-import sqlite3
-import plotly.express as px
-import os
-
 # --- 1. 페이지 설정 ---
 st.set_page_config(page_title="서울시 생활안전 대시보드", layout="wide")
 
