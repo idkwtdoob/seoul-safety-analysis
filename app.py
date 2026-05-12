@@ -13,7 +13,7 @@ import os
 st.set_page_config(page_title="서울시 생활안전 대시보드", layout="wide")
 
 # --- 2. DB 연결 및 분석용 테이블 생성 (기존 로직 동일) ---
-DB_FILE = "1인가구.db"
+DB_FILE = "seoul_safety.db"
 
 def get_connection():
     return sqlite3.connect(DB_FILE)
