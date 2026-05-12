@@ -23,8 +23,7 @@
 ## 시각화 결과
 
 ### 1. 1인가구 밀집지역의 안심택배함 설치 충분성
-<img width="1260" height="486" alt="image" src="https://github.com/user-attachments/assets/d3004f6f-2594-4c15-88aa-0798b376f9f1" />
-
+<img width="1260" height="360" alt="image" src="https://github.com/user-attachments/assets/2f862fc1-88bd-4953-a8f7-ba67a5c61bbd" />
 **시각화 방식:** 가로 막대그래프  
 **사용 지표:** 자치구별 `1만명당 안심택배함수`
 
