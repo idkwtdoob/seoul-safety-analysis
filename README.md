@@ -1,7 +1,8 @@
 # seoul-safety-analysis
 
 ## 사용한 프롬프트 공유링크
-  : [https://aistudio.google.com/prompts/new_chat?model=gemini-3-flash-preview ](https://aistudio.google.com/prompts/1-m82kvwlgJKkvNVNnZ5EvTmjUjB40tU6) 
+  : https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221-m82kvwlgJKkvNVNnZ5EvTmjUjB40tU6%22%5D,%22action%22:%22open%22,%22userId%22:%22104417344784314853649%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
+  
 
 ## 사용 데이터
 
